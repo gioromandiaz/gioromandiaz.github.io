@@ -1,5 +1,12 @@
 # gioromandiaz.github.io
 
+I'm still alive, lots of great things have happened recently, I'm currently employed at IBM working as a technical specialist for the Hybrid Cloud portfolio, within the Storage platform.
+The people I work with are awesome, they're very supportive and there is a lot to learn, and I haven't been this excited in a long time.
+I'll try to update this site as much as possible, but a lot of new projects I have in mind will work their way through my GitHub repo's.
+
+-Gio R.D.
+9.16.2025
+
 Soon... maybe. I'm admittedly bad with setting time aside for things like this.
 
 -Gio R.D.
